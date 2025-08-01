@@ -1,8 +1,8 @@
-echo streamlit>>requirements.txt
-echo tensorflow>>requirements.txt
-echo numpy>>requirements.txt
-echo pillow>>requirements.txt
-echo opencv-python-headless>>requirements.txt
-echo matplotlib>>requirements.txt
-echo seaborn>>requirements.txt
-echo scikit-learn>>requirements.txt
+streamlit
+tensorflow
+numpy
+pillow
+opencv-python-headless
+matplotlib
+seaborn
+scikit-learn
